@@ -1,0 +1,22 @@
+# Ignore node modules (JavaScript/Node dependencies)
+node_modules/
+
+# Ignore Python virtual environments and compiled files
+__pycache__/
+venv/
+*.pyc
+
+# Ignore environment variables and secrets
+.env
+.env.local
+*.pem
+
+# Ignore operating system system files
+.DS_Store
+Thumbs.db
+
+# Ignore build directories and log files
+dist/
+build/
+*.log
+
