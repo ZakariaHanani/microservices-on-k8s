@@ -4,7 +4,7 @@
 
 tiny microservices playground running on Kubernetes ☸️
 
-built while learning k8s, breaking shiii, fixing it, and blasting Manu Chao 🎧
+built while learning k8s, breaking shiii, fixing it.
 
 ### architecture (or whatever)
 
@@ -43,7 +43,7 @@ built while learning k8s, breaking shiii, fixing it, and blasting Manu Chao 🎧
 - **Worker** — the guy that actually processes the votes
 - **PostgreSQL** — where the votes go to sleep forever
 
-### quick start (aka “please don’t break my cluster”)
+### quick start
 
 ```bash
 kubectl apply -f .
