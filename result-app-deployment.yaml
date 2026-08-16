@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: result-container
-          image: kodekloud/example_result_app:v1
+          image: dockersamples/examplevotingapp_result
           ports:
             - containerPort: 80
-              name: resultPort
+              name: resultport
