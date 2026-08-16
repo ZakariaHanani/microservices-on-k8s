@@ -4,7 +4,7 @@
 
 tiny microservices playground running on Kubernetes ☸️
 
-built while learning k8s, breaking shit, fixing it, and blasting Manu Chao 🎧
+built while learning k8s, breaking shiii, fixing it, and blasting Manu Chao 🎧
 
 ### architecture (or whatever)
 
